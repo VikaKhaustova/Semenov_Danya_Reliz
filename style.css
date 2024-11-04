@@ -1,0 +1,73 @@
+body {
+    background-color: #71FFA0;
+    font-family: "JetBrains Mono", monospace;
+}
+header h1{
+    font-size: 60px;
+    text-align: center;
+}
+.div_for_img{
+    text-align: center;
+}
+
+main p{
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+main h2{
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.plant{
+    width: 1000px;
+    height: 325px;
+    justify-content:space-around ;
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+    background-color: #65E243;
+    margin-bottom: 50px;
+    
+}
+.plant img{
+    width: 200px;
+}
+
+.plant-text{
+    width: 650px;
+}
+
+.catalog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Playfair Display", serif;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    padding: 50px;
+}
+footer h1{
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+footer img{
+    width: 165px;
+}
